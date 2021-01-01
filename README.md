@@ -1,4 +1,4 @@
-![ ](https://github.com/Husain0007/GANs-Specialization/blob/main/Images/Banner.png)  
+![ ](https://github.com/Husain0007/GANs-Specialization/blob/main/Docs/Banner.png)  
 <center><h1>DeepLearning.AI's GANs Specialization</h1></center>
 The specialization covers recent developments in the domain of Generative Modelling, and elucidates various use-cases for Generative Adversarial Neural Networks.   
 
